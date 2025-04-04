@@ -1,1 +1,1 @@
-console.log("bug's detected")
+console.log("bug's detected");
